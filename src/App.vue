@@ -35,7 +35,7 @@ body {
 }
 
 .wrap {
-  border: 1px solid #F2F3F6;
+  border: 1px solid $color-white-gray;
   box-sizing: border-box;
   box-shadow: 0 2px 6px rgba(0, 44, 92, 0.1);
   border-radius: 2px;
@@ -46,7 +46,7 @@ body {
   }
 
   &__link {
-    color: #ABB2BF;
+    color: $color-gray;
     font-weight: 500;
     font-size: 18px;
     line-height: 20px;

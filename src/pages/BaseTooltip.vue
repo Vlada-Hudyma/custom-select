@@ -64,8 +64,8 @@ export default {
     &-description {
       position: absolute;
       max-width: 138px;
-      background: #FFFFFF;
-      border: 1px solid #F2F3F6;
+      background: $color-white;
+      border: 1px solid $color-white-gray;
       box-sizing: border-box;
       box-shadow: 0 6px 15px rgba(0, 44, 92, 0.1);
       padding: 6px;

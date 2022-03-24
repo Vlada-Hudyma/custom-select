@@ -19,7 +19,6 @@ export default {
   components: {CustomSelect},
   data() {
     return {
-      text: 'Select Name',
       defaultValue: 'choose select',
       currentText: '',
     }

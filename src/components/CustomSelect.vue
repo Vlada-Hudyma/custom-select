@@ -49,11 +49,6 @@ export default {
       type: Array,
       required: true,
     },
-    value: {
-      type: String,
-      required: false,
-      default: null,
-    },
     tabindex: {
       type: Number,
       required: false,
